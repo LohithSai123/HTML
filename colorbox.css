@@ -3,6 +3,9 @@ button{
     background-color: aquamarine;
     width: 200px;
     height: 200px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 50px;
+    position:relative;
+    left:40%;
+    top: 200px;
 }
